@@ -1,0 +1,68 @@
+h3{
+	font-family:'Akronim', cursive;
+	font-size:70px;
+	color:#FF3399;
+	color
+     }
+     body{
+     background-image:url("http://t0.gstatic.com/images?q=tbn:ANd9GcRjsu4N_ShRO48w1jyj62vjiUGA2GJMYNl_K9etgjpvM1q486vi");
+     }
+ #Header{
+ 	width:800px;
+ 	border-style:solid; 
+ 	border-color:black;
+ 	height:200px;
+ }
+ #Sider{
+ width:800px;
+ height:800px;
+ border-color:black;
+ border-style:solid;
+ 
+ }
+#Drake{
+	height:100px; 
+	width:200px;
+	}
+#ChanceTheRapper{
+	height:100px;
+	width:200px;
+}
+#LilDurk{
+	height:100px;
+	width:200px;
+}
+img {
+	display: block;
+	height: 100px;
+	width: 300px;
+	margin: auto;
+}
+
+p {
+	text-align: center;
+	font-family: Garamond, serif;
+	font-size: 20px;
+}
+
+div {
+	border-radius: 5px;
+	border: 2px solid #FF3399;
+	background-color: #FFFF00;
+	height: 50px;
+	width: 120px;
+	margin: auto;
+	text-align: center;
+}
+
+a {
+	text-decoration: none;
+	color: #3D59AB;
+	font-family: Verdana, sans-serif;
+}
+
+span {
+	font-weight: bold;
+	font-size: 18px;
+	color: #ffffff;
+}
